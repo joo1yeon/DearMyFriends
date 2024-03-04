@@ -83,7 +83,7 @@
 
 ### 상관관계 분석
 
-| 히트맵 | 산점도 그래프 |
+| Heat Map | Scatter Graph |
 | --- | --- |
 | <img src="README_asset/heat_map.png"> | <img src="README_asset/scatter_graph.png"> |
 
