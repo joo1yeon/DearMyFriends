@@ -4,15 +4,39 @@
 
 > 🏆 입상(장려상)
 
+<br>
+
 ### 기간
 
 ```2021.06.28.``` ~ ```2021.09.29.``` (3개월)
 
+<br>
+
+### 목차
+  
+- [기술 스택](#-기술-스택)
+    + [데이터 분석](#데이터-분석)
+    + [협업](#협업)
+- [배경](#-배경)
+- [분석 방법](#-분석-방법)
+    + [사용 데이터](#사용-데이터)
+    + [키워드 분석](#키워드-분석)
+    + [공연 예매와 카드 소비의 상관관계 분석](#공연-예매와-카드-소비의-상관관계-분석)
+- [결과](#-결과)
+    + [키워드 분석 결과](#키워드-분석-결과)
+    + [상관관계 분석 결과](#상관관계-분석-결과)
+- [활용 방안](#-활용-방안)
+    + [키워드 분석 활용](#키워드-분석-활용)
+    + [상관관계 분석 활용](#상관관계-분석-활용)
+- [기대 효과](#-기대-효과)
+- [한계점](#-한계점)
+- [팀원 소개](#-팀원-소개)
+
 <br><br>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="35" height="35" /> 기술 스택
+# 📌 기술 스택
 
-### Data Analysis
+### 데이터 분석
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -21,7 +45,7 @@
   <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
 
-### Communication
+### 협업
 
 <div>
   <img src="https://img.shields.io/badge/zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white" />
@@ -29,7 +53,7 @@
 
 <br><br>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="35" height="35" /> 배경
+# 📌 배경
 
 - 스트리밍 서비스에 의해 공연장을 찾는 20대 관객이 줄고, 구매력이 높은 30⋅40대가 빈자리를 채운다.
 - 기존 공연 예술 시장의 주 타깃이었던 20대 관객이 줄어들고 있다.
@@ -38,7 +62,7 @@
 
 <br><br>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="35" height="35" /> 분석 방법
+# 📌 분석 방법
 
 ### 사용 데이터
 
@@ -68,9 +92,9 @@
 
 <br><br>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="35" height="35" /> 결과
+# 📌 결과
 
-### 키워드 분석
+### 키워드 분석 결과
 
 <img src="README_asset/keyword_analysis.png">
 
@@ -81,7 +105,7 @@
 
 <br>
 
-### 상관관계 분석
+### 상관관계 분석 결과
 
 | Heat Map | Scatter Graph |
 | --- | --- |
@@ -97,9 +121,9 @@
 
 <br><br>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="35" height="35" /> 활용 방안
+# 📌 활용 방안
 
-### 키워드 분석 결과
+### 키워드 분석 활용
 
 > ```배우``` > ```공연``` > ```연극``` > ```연기``` > ```아이``` > ```정말``` > ```시간```
 
@@ -107,7 +131,7 @@
 
 <br>
 
-### 상관관계 분석 결과
+### 상관관계 분석 활용
 
 | 소비 건수 | 공연 예매 |
 | --- | --- |
@@ -119,7 +143,7 @@
 
 <br><br>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="35" height="35" /> 기대 효과
+# 📌 기대 효과
 
 1. 토픽 모델링
 2. 장바구니 분석
@@ -128,7 +152,7 @@
 
 <br><br>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="35" height="35" /> 한계점
+# 📌 한계점
 
 <details>
   <summary>
@@ -176,7 +200,7 @@
 
 <br><br>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="35" height="35" /> 팀원 소개
+# 📌 팀원 소개
 
 | 정세영 | 연주원 | 이승원 | 정유지 |
 |:---:|:---:|:---:|:---:|
